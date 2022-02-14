@@ -1,0 +1,46 @@
+.navbar{
+background-color:gainsboro;
+padding-bottom: 10px;
+}
+.qeusou{
+    background-color:honeydew;
+}
+.margin{
+    padding-top: 5px;
+    padding-bottom:5px;
+}
+.brok{
+    border: 3px solid ghostwhite;
+    border-radius: 7px;
+    margin-left: 10px;S   
+}
+.pei{
+    text-align: center;
+}
+.pow{
+    text-align: center;
+}
+.pok{
+    border-radius: 7px;
+}
+.hey{
+    font-size: 20px;
+    font-style:oblique;
+    font-weight: bold;
+}
+.poktrocados{
+    background-color:honeydew;
+}
+.treinadores{
+    background-color:honeydew;
+}
+.foot{
+    text-align: center;
+    background-color:limegreen;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    font-weight: bold;
+}
+.boy{
+    color:black;
+}
